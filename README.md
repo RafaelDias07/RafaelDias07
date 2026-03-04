@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Olá! Sou aluno da FIAP, estou cursando Engenharia de Software, busco me profissionalizar nas minhas áreas de interesses.<br>Que incluem Engenharia de Software e inteligência artificial (IA).<br>Com esse perfil tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua  na minha trajetória</p>
+<p align="left">Olá! Sou aluno da FIAP, estou cursando Engenharia de Software, busco me profissionalizar nas minhas áreas de interesses.<br>Que incluem desenvolvimento back-end, analise de dados e inteligência artificial (IA).<br>Com esse perfil tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua  na minha trajetória</p>
 
 ###
 
